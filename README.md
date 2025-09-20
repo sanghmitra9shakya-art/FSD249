@@ -3,6 +3,6 @@
 
 ## Intro
 
-Name: Sanghmitra Shakya
-College: ABES Gaziyabad
+- Name: Sanghmitra Shakya
+- College: ABES Gaziyabad
 
